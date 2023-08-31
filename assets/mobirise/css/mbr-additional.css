@@ -3015,6 +3015,13 @@ a {
 .cid-tJWpM6mAcB .bg-facebook:hover {
   background: #0b60cb;
 }
+.cid-tJWpM6mAcB .bg-twitter {
+  background: #1da1f2;
+  color: #ffffff;
+}
+.cid-tJWpM6mAcB .bg-twitter:hover {
+  background: #0c85d0;
+}
 .cid-tJWpM6mAcB .iconfont-wrapper {
   display: inline-block;
   font-size: 32px;
